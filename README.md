@@ -1,4 +1,4 @@
-Predictive Maintenance Using LSTM
+##Predictive Maintenance Using LSTM
 
 A complete end-to-end Predictive Maintenance system that processes industrial sensor data and predicts potential machine failure. The project includes data ingestion, preprocessing, feature engineering, sequence preparation, LSTM model training, and performance visualization.
 
